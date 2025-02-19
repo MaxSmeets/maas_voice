@@ -1,0 +1,18 @@
+[project]
+version = "0.0.1"
+name = "maas_voice"
+license = "MIT"
+authors = [
+  {name = "Max Smeets", email = "maxsmeets1996@gmail.com"}
+]
+maintainers = [
+  {name = "Max Smeets", email = "maxsmeets1996@gmail.com"}
+]
+readme = "README.md"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+]
